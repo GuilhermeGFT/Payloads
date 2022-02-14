@@ -1,0 +1,21 @@
+{
+  "ManufacturingYear": "2020",
+  "ModelYear": "2020",
+  "CurrencyIsoCode": "BRL",
+  "ProductId": "ID12301239",
+  "StockVehicleID": "ID1230192",
+  "CurrentKM": "1234",
+  "LinkToAdmin": "www.teste.com",
+  "LinkToVehicle": "www.carro.com",
+  "Location": "Loja 01",
+  "Brand": "Chevrolet",
+  "Name": "Chevrolet Onix 2021",
+  "Plate": "HHH-6262",
+  "Quantity": "1",
+  "StockVehicleStatus": "Disponível",
+  "ProductType": "Carro",
+  "Value": {
+    "currencyIsoCode": "BRL",
+    "amount": 1000000.0
+  }
+}
