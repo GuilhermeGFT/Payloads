@@ -1,0 +1,15 @@
+{
+  "MeetingTime": "2022-02-20T14:26:48.200638",
+  "MeetingAddress": "Rua teste, n12, 38400-212",
+  "LinkToScheduleMeeting": "www.visita.com",
+  "LinkToMeeting": "www.maps.com",
+  "MeetingLocation": "Loja 01",
+  "MeetingStatus": "Agendada",
+  "MeetingConfirmation": true,
+  "MeetingId": "MID-202020",
+  "DealId": "DIDa1b2c4",
+  "LeadID": "LD-001",
+  "ProductId": "ID12301222",
+  "productType": "Creditas Auto Buyer",
+  "MeetingType": "Remota"
+}
