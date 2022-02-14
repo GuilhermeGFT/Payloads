@@ -1,0 +1,19 @@
+{
+  "dealId": "IDD-002",
+  "totalValue": {
+    "amount": "12345,12",
+    "currencyIsoCode": "BRL"
+  },
+  "source": "CREDITAS_AUTO",
+  "UTM_source": "google",
+  "UTM_Medium": "cpc",
+  "UTM_Campaign": "[creditas-auto][search][institucional][cliques]",
+  "priority": 111,
+  "productsOfInterest": [
+    {
+      "ProductId": "TRACKER",
+      "quantity": 1,
+      "productType": "Creditas Auto Buyer"
+    }
+  ]
+}
