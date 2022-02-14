@@ -1,0 +1,25 @@
+{
+  "fullName": "Flávia Rodrigues dos Santos",
+  "company": {
+    "businessName": "--",
+    "mainDocumentCode": "--"
+  },
+  "contacts": [
+    {
+      "id": "",
+      "channel": "Email",
+      "code": "gft.fsantos@creditas.com",
+      "type": "COMERCIAL"
+    },
+    {
+      "id": "",
+      "channel": "WHATSAPP",
+      "code": "(11) 98765-4321",
+      "type": "PERSONAL"
+    }
+  ],
+  "mainDocument": {
+    "type": "CPF",
+    "code": "12345678910"
+  }
+}
